@@ -5,7 +5,6 @@ description:
 img: assets/img/proj_1/project_background_gif.gif
 importance: 1
 category: Graduate School
-tag: Reinforcement Learning, Airsim, Unreal Enginer
 related_publications: false
 ---
 
