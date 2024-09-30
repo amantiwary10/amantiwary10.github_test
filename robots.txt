@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Heavy0strich.github.io/sitemap.xml
+Sitemap: https://amantiwary10.github.io/sitemap.xml
