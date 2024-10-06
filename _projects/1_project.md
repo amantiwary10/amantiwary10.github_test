@@ -3,9 +3,8 @@ layout: page
 title: Reinforcement Learning for Flying Insect Robots
 description: 
 img: assets/img/proj_1/project_background_gif.gif
-importance: 1
-category: Graduate School
-related_publications: false
+importance: 2
+category: Graduate
 ---
 
 
