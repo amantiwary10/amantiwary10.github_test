@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: PTR
+description: Penalized Trust Region method for minimum time of flight
 img: assets/img/1.jpg
 importance: 3
 category: fun
