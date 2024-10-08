@@ -2,7 +2,7 @@
 layout: page
 title: Gaussian Process Regression for Li-Ion battery modeling
 description: 
-img: assets/img/proj_3/battery_model_project_background.png
+img: assets/img/proj_6/battery_model_project_background.png
 importance: 4
 category: Graduate
 ---
@@ -11,6 +11,6 @@ This project focuses on employing Gaussian Process Regression (GPR) to model the
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_3/20d-conditional-main.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/proj_6/20d-conditional-main.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
