@@ -12,7 +12,7 @@ This project focuses on developing a corridor-following behavior for flying inse
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/proj_3/occlusion_filter.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/proj_3/training_video_1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/proj_3/training_video_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
