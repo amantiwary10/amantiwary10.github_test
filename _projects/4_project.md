@@ -3,7 +3,7 @@ layout: page
 title: Camera Network Optimization
 description: 
 img: assets/img/proj_1/network_opt.gif
-importance: 1
+importance: 2
 category: Graduate
 ---
 

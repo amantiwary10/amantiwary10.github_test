@@ -2,8 +2,8 @@
 layout: page
 title: PTR
 description: Penalized Trust Region method for minimum time of flight
-img: 
-importance: 2
+img: assets/img/proj_2/ptr_background.png
+importance: 3
 category: Graduate
 ---
 

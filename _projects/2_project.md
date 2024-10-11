@@ -3,7 +3,7 @@ layout: page
 title: Learning to denoise
 description: 
 img: assets/img/proj_5/project_background.png
-importance: 4
+importance: 5
 category: Graduate
 ---
 
